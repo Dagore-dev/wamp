@@ -16,7 +16,11 @@ Comparación entre montaje de stack tecnológico para servidor web (`WAMP`) por 
 
 1. Indicar 3 o 4 de las distribuciones `WAMP` disponibles en el mercado.
 
+Algunos ejemplos de distribuciones `WAMP` son los siguientes: `EasyPHP`, `AppServ`, `XAMPP`, `WampServer`.
+
 2. ¿Qué contienen dichas distribuciones?
+
+  - `EasyPHP` incluye las siguientes tecnologías: `PHP`, `Apache`, `MySQL`, `Nginx`. Las versiones 17.x de esta distribución 
 
 3. ¿Qué distribución emplearía? Justifique su respuesta.
 
