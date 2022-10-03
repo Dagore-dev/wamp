@@ -16,6 +16,8 @@ Comparación entre montaje de stack tecnológico para servidor web (`WAMP`) por 
 
 2. ¿Qué versiones se descargan de cada módulo? Tener en cuenta la compatibilidad.
 
+Para garantizar la compatibilidad opto por calcar las elecciones de un montaje por distribución ampliamente utilizado como es `XAMPP`: `Apache 2.4.54`, `MariaDB 10.4.24` y `PHP 8.1.10` en un equipo `Windows 10`.
+
 3. ¿Qué ficheros de configuración tiene cada módulo? Indicar nombre y contenido.
 
 ## Montaje por distribución
@@ -33,6 +35,8 @@ Algunos ejemplos de distribuciones `WAMP` son los siguientes: `EasyPHP`, `AppSer
   - `WampServer` agrega `MariaDB` o `MySQL`, `Adminer` y `phpSysInfo`.
 
 3. ¿Qué distribución emplearía? Justifique su respuesta.
+
+`WampServer`, justifico mi respuesta en el siguiente apartado.
 
 ## ¿Cuál sería su elección? Justifique su respuesta
 
