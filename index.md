@@ -8,6 +8,12 @@ Comparación entre montaje de stack tecnológico para servidor web (`WAMP`) por 
 
 1. ¿En qué sitios web se descargan los distintos módulos fundamentales?
 
+- `Windows` se descarga a través de la web de [Microsoft](https://www.microsoft.com/es-es/software-download/windows10).
+- `Apache` se puede descargar desde [Apache HTTP Server Project](https://httpd.apache.org/download.cgi).
+- `MariaDB` desde la [MariaDB Foundation](https://mariadb.org/download/).
+- `MySQL` a través de su [sitio oficial](https://www.mysql.com/downloads/).
+- `PHP` se descarga en [php.net](https://www.php.net/downloads).
+
 2. ¿Qué versiones se descargan de cada módulo? Tener en cuenta la compatibilidad.
 
 3. ¿Qué ficheros de configuración tiene cada módulo? Indicar nombre y contenido.
@@ -30,4 +36,6 @@ Algunos ejemplos de distribuciones `WAMP` son los siguientes: `EasyPHP`, `AppSer
 
 ## ¿Cuál sería su elección? Justifique su respuesta
 
-`WampServer` es desde mi punto de vista la mejor alternativa. Soporta múltiples versiones de las distintas tecnologías que ofrece y permite escoger entre `MariaDB` y `MySQL`. La otra alternativa sugerente es `XAMPP`, sin embargo ofrece tantas tecnologías *out of the box* que puede resultar innecesariamente pesado o complejo.
+Con mis conocimientos y experiencia actuales de opto por un montaje por distribución. Este montaje me permite empezar rápidamente mis proyectos y desarrollos, al tiempo que podré familiarizarme con el entorno y stack tecnológico.
+
+Escogido el montaje por distribución, `WampServer` es desde mi punto de vista la mejor alternativa. Soporta múltiples versiones de las distintas tecnologías que ofrece y permite escoger entre `MariaDB` y `MySQL`. La otra alternativa sugerente es `XAMPP`, sin embargo ofrece tantas tecnologías *out of the box* que puede resultar innecesariamente pesado o complejo.
