@@ -20,6 +20,10 @@ Para garantizar la compatibilidad opto por calcar las elecciones de un montaje p
 
 3. ¿Qué ficheros de configuración tiene cada módulo? Indicar nombre y contenido.
 
+- `Apache` se configura en el fichero `httpd.conf` que se puede encontrar dentro del directorio de instalación de `Apache` en un directorio de nombre `conf`. Con este fichero se pueden, por ejemplo, crear alias para las rutas dentro del directorio desde el que se sirven las aplicaciones. [[1]](https://httpd.apache.org/docs/2.4/configuring.html)
+- `MariaDB` y `MySQL` emplean el fichero `my.ini` localizado habitualmente en el directorio de instalación del módulo. Este fichero permite cambiar distintas cuestiones como el motor de la base de datos, el puerto en que escucha o las rutas a los distintos directorios que emplea para su funcionamiento. [[2]](https://mariadb.com/kb/en/configuring-mariadb-with-option-files/)
+- `PHP` puede configurarse en el fichero `php.ini` ubicado en el directorio de instalación. Permite editar opciones como si se muestran o no errores, el tiempo de ejecución máximo o el servidor de correo saliente. [[3]](http://recursostic.educacion.es/observatorio/version/v2/es/software/servidores/800-monografico-servidores-wamp?showall=1)
+
 ## Montaje por distribución
 
 1. Indicar 3 o 4 de las distribuciones `WAMP` disponibles en el mercado.
